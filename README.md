@@ -4,4 +4,8 @@ Here is a basic virtual voice assistant designed using Python, using packages su
 
 ## Usage
 
-Run the python script. You can speak certain commands that are programmed into the script to receive subsequent responses.
+1. Clone the repository.
+2. Run the following command to install required dependencies:
+   ```pip install -r requirements.txt```
+3. Run the python script. 
+4. You can speak certain commands that are programmed into the script to receive subsequent responses.
